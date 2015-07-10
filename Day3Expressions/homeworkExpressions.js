@@ -11,7 +11,7 @@
 // slices of pizza
 var slices = 7;
 // number of people
-var people = 8;
+var people = 9;
 // number of pizzas
 var pizzas = 6;
 
@@ -22,6 +22,16 @@ console.log ("slices ate per person "+ spp);
 
 // number of pieces sparky will get
 
-var sparky = pizzas*slices%people
+var sparky = pizzas*slices%people;
 
+console.log ("slices sparky ate " + sparky);
 
+//Average shopping bill
+
+// Total amount spent 1000
+
+var total = 1000;
+var weeks = 5;
+var average = total/weeks;
+
+console.log("Average grocery bill over 5 weeks" average);
