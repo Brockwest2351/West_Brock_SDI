@@ -97,3 +97,40 @@ tester -=6;  // tester = - 6
 tester /= 3; // tester = / 3
 tester *= 6 // tester = * 6
 console.log(tester)
+
+// order of operations
+// pemdas
+// parenthesis, exponents, multiply, divide, add, subtract
+
+// find quiz averages
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 70;
+
+// add up all of them and divide by the number of them
+
+var average= (quiz1+quiz2+quiz3)/3;
+console.log(average)
+
+// strings- text for coding
+// must have matching " or '
+// needed to separate variable names from standard text
+
+var kermit = "light green";
+var frogName = kermit;
+console.log (frogName)
+
+// double or single quotes
+// escape characeter \ back slash
+var phrase = ' I don\'t know.\nYou never know!';
+console.log(phrase);
+
+// \ in New Line Character
+
+//Booleans- true or false
+// light switches of programming
+var yes = true;
+var no= "false";
+var notCorrect= false;
+
+// A string of "false" is not equal to a boolean of false
