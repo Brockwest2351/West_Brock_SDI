@@ -36,7 +36,7 @@ var a=2;
 console.log(a);
 // Change the value of a variable
 a=6;
-console.log(a)
+console.log(a);
 
 // add 3 to the current value of a
 a=a+3;
@@ -45,8 +45,8 @@ console.log(a);
 //createa another variable
 var B;
 b=a+3
-console.log(a)
-console.log(b)
+console.log(a);
+console.log("The Value of b is" + b);
 
 // simple math
 // find our age
@@ -134,3 +134,23 @@ var no= "false";
 var notCorrect= false;
 
 // A string of "false" is not equal to a boolean of false
+
+// simple math problem
+// find perimeter of a rectangle
+var side1 = 7;
+var length1= 6;
+var perimeter= (side1*2)+(length1*2);
+console.log(perimeter);
+//Are the parenthesis needed
+
+//Concatenation - Combining Texts
+var firstName= "Kermit";
+var lastName = " The frog";
+var fullName= firstName +" "+ lastName;
+console.log (fullName+" is the color "+kermit);
+
+// Anytime you use + with text it changes everything to text
+var d = "6";
+var e = 7;
+var combine = d + e;
+console.log(combine);
