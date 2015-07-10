@@ -20,3 +20,4 @@ var spp = slices*pizzas/people;
 
 console.log ("slices ate per person "+ spp);
 
+// number of pieces sparky will get
