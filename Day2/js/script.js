@@ -154,3 +154,13 @@ var d = "6";
 var e = 7;
 var combine = d + e;
 console.log(combine);
+
+// calculate the area of a rectangle
+var width2=4;
+var height2=5;
+
+// w*h=area
+var area2 = width2*height2;
+
+// result format - outputting to the console
+console.log("The area of the rectangle is " + area2);
