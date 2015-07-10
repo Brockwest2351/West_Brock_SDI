@@ -9,11 +9,11 @@
 //Slices of Pie
 
 // slices of pizza
-var slices = 10;
+var slices = 8;
 // number of people
-var people = 4;
+var people = 10;
 // number of pizzas
-var pizzas = 8;
+var pizzas = 4;
 
 // number of slices ate per persons
 var spp = slices*pizzas/people;
@@ -21,3 +21,4 @@ var spp = slices*pizzas/people;
 console.log ("slices ate per person "+ spp);
 
 // number of pieces sparky will get
+var sparky ("slices sparky will get" );
