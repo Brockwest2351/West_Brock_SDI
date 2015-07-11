@@ -12,6 +12,8 @@ var userInput = prompt("enter your year of birth:");
 console.log(userInput);
 var age =2015-userInput-1;
 console.log(" You are " +age+ " years old.");
+alert(" You are " +age+ " years old.");
+
 
 // calculate the area of a rectangle
 //prompt the user for width
@@ -31,4 +33,5 @@ console.log("the area of your rectangle is "+area);
 var result = "the area of your rectangle is "+area;
 console.log(result);
 alert(result);
+
 
