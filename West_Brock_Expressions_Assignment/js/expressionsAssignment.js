@@ -13,10 +13,16 @@ var gameOneAttempts= prompt (" Let's calculate your shooting average over the la
 console.log (gameOneAttempts);
 
 var gameOneMade= prompt (" How many shots did you make in game one?");
-console.log (gameOnemade);
+console.log (gameOneMade);
 
 var gameTwoAttempts= prompt (" How many shots did you attempt in game two? ");
 console.log (gameTwoAttempts);
 
 var gameTwoMade= prompt (" How many shots did you make in game two? ");
 console.log (gameTwoMade);
+
+var gameThreeAttempts= prompt (" How many shots did you attempt in game three? ");
+console.log (gameThreeAttempts);
+
+var gameThreeMade= prompts (" How many shots did you make in game three? ");
+console.log (gameThreeMade);
