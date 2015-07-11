@@ -45,7 +45,7 @@ console.log("total amount spent " +total,"Average grocery bill over 5 weeks " + 
 // Discounts
 
 var itemCost = 1000;
-var discount = 20;
+var discount = 25;
 var discountPercent = discount / 100;
 var salesTax =.05;
 
