@@ -24,5 +24,13 @@ console.log (gameTwoMade);
 var gameThreeAttempts= prompt (" How many shots did you attempt in game three? ");
 console.log (gameThreeAttempts);
 
-var gameThreeMade= prompts (" How many shots did you make in game three? ");
+var gameThreeMade= prompt (" How many shots did you make in game three? ");
 console.log (gameThreeMade);
+
+// adding shots attempted over all three games
+
+var totalAttempted= (Number (gameOneAttempts)+ Number (gameTwoAttempts)+ Number (gameThreeAttempts));
+alert (" total shots attempted over 3 games " + totalAttempted);
+
+var totalMade =(Number (gameOneMade)+ Number (gameTwoMade)+ Number (gameThreeMade))
+alert ("total shots made over 3 games" + totalMade)
