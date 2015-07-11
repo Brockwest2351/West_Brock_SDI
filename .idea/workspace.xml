@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 3/js/Day3_arrays.js" afterPath="$PROJECT_DIR$/Day 3/js/Day3_arrays.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="West_Brock_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="Day3_arrays.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 3/js/Day3_arrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.625">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.84375">
+              <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -380,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/js/Day3_arrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.625">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.84375">
+          <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
