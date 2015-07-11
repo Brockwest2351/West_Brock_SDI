@@ -12,5 +12,11 @@ Expressions
 var gameOneAttempts= prompt (" Let's calculate your shooting average over the last 3 basketball games.\nHow many shooting attempts did you have for game one? ");
 console.log (gameOneAttempts);
 
-var gameOnemade= prompt (" How many shots did you make in game one?");
+var gameOneMade= prompt (" How many shots did you make in game one?");
 console.log (gameOnemade);
+
+var gameTwoAttempts= prompt (" How many shots did you attempt in game two? ");
+console.log (gameTwoAttempts);
+
+var gameTwoMade= prompt (" How many shots did you make in game two? ");
+console.log (gameTwoMade);
