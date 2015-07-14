@@ -30,11 +30,17 @@ if(oldEnough){
 
 // test the kids height to see if he can ride the ride
 
-var kidsHeight = 50;
+var kidHeight = 42;
+var sneakerLift=2;
 
 // if the child is 48 inches or taller they can ride the ride
 
-if(kidsHeight>=48){
+if(kidHeight>=48){
  //code inside of here will run if child is 48 inches or taller
-  console.log("congrats you are tall enough to ride the coaster!!")
+  console.log("congrats you are tall enough to ride the coaster!!");
+} else{
+console.log ("sorry you are too short");
 }
+
+
+console.log("this text is after the code block")

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 4/js/day4conditionals.js" afterPath="$PROJECT_DIR$/day 4/js/day4conditionals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="West_Brock_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="day4conditionals.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day 4/js/day4conditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7916667">
-              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.8177083">
+              <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -631,8 +632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day 4/js/day4conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7916667">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.8177083">
+          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
