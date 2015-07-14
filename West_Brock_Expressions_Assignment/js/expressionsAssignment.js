@@ -7,7 +7,8 @@ Expressions
 
 //alert("testing to see if this work!");
 
-// calculating my basketball shooting percentage over 5 games
+// calculating my basketball shooting percentage over 3 games
+
 
 var gameOneAttempts= prompt (" Let's calculate your shooting average over the last 3 basketball games.\nHow many shooting attempts did you have for game one? ");
 console.log (gameOneAttempts);
