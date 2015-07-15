@@ -31,6 +31,17 @@ var miles=200
   console.log ("you only have "+mpg+" of gas in your car you better stop for gas");
  }
 
+// username and password
+
+ var username= prompt("what is your username?");
+ var password= prompt("what is your password?");
+ var correctUsername = ("brockwest");
+ var correctPassword =("password");
+
+ if (correctUsername + correctPassword){
+  console.log("Welcome "+username);
+ } else if(correctUsername)(username)
+ console.log("Username not found try again!");
 
 
 
