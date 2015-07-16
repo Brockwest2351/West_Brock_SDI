@@ -8,7 +8,7 @@ Conditionals Assignment
 
 //alert("testing to see if this work!");
 
-// calculate if you can afford a dog
+// calculate if you can afford a dog on a payment plan up to 12 months
 
  var allowedPuppy= prompt ("Can you have a puppy where you live?\n Please type yes or no.");
 
@@ -34,5 +34,13 @@ Conditionals Assignment
  }
 
 
+var months = prompt ("How many months will you need to pay off the puppy?\n Please enter a number between 0-12");
+ console.log("Months is "+months);
+ if ((months<=0 || months>12)||(isNaN(months)||months==="")) {
+  //reprompt the user
+  months = prompt("Please only enter a number between 0 and 12.\n How many months will you need to pay off the puppy?");
+ }
 
+var monthlyPayment= puppyCost/months
+ 
 
