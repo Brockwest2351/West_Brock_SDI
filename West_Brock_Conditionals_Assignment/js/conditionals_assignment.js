@@ -120,7 +120,8 @@ if(allowedPuppy.toLowerCase()==="no") {
  // puppyCost 1000
  // paidFull no
  // monthlyBudget 100
+ // months 12
  // age 18
- // console "move on to monthly payment plan." "you can buy the puppy"
+ // console "move on to monthly payment plan." "you can buy the puppy" "you are old enough to buy the puppy"
 
 
