@@ -59,7 +59,9 @@ day 6 math class
 
 
  // circumfrence of a circle
- var radius=7
+ var radius=7;
  var circleCumfre = 2*radius*Math.PI;
  console.log(circleCumfre);
+
+
 
