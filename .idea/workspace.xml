@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day6/js/day6_forloops.js" afterPath="$PROJECT_DIR$/day6/js/day6_forloops.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day6/js/day6_validation.js" afterPath="$PROJECT_DIR$/day6/js/day6_validation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day6/js/day6_whileloops.js" afterPath="$PROJECT_DIR$/day6/js/day6_whileloops.js" />
     </list>
     <ignored path="West_Brock_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day6_whileloops.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="day6_whileloops.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day6/js/day6_whileloops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.9227129">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -47,16 +48,26 @@
         <entry file="file://$PROJECT_DIR$/day6/js/day6_validation.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day6_validation.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="conditionals_assignment.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/West_Brock_Conditionals_Assignment/js/conditionals_assignment.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day6_validation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day6/day6_validation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12295082">
+            <state vertical-scroll-proportion="-3.125">
               <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
               <folding />
             </state>
@@ -135,11 +146,11 @@
         <option value="$PROJECT_DIR$/day6/day6_math.html" />
         <option value="$PROJECT_DIR$/day6/js/day6_mathclass.js" />
         <option value="$PROJECT_DIR$/day6/day6_whileloops.html" />
-        <option value="$PROJECT_DIR$/day6/js/day6_whileloops.js" />
         <option value="$PROJECT_DIR$/day6/day6_forloops.html" />
         <option value="$PROJECT_DIR$/day6/js/day6_forloops.js" />
         <option value="$PROJECT_DIR$/day6/day6_validation.html" />
         <option value="$PROJECT_DIR$/day6/js/day6_validation.js" />
+        <option value="$PROJECT_DIR$/day6/js/day6_whileloops.js" />
       </list>
     </option>
   </component>
@@ -862,14 +873,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/West_Brock_Conditionals_Assignment/js/conditionals_assignment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day6/day6_math.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125">
@@ -902,14 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day6/js/day6_whileloops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day6/day6_forloops.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125">
@@ -926,18 +921,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day6/js/day6_validation.js">
+    <entry file="file://$PROJECT_DIR$/day6/day6_validation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day6/day6_validation.html">
+    <entry file="file://$PROJECT_DIR$/day6/js/day6_validation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12295082">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/West_Brock_Conditionals_Assignment/js/conditionals_assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day6/js/day6_whileloops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9227129">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           <folding />
         </state>
       </provider>
