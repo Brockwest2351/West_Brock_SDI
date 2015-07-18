@@ -37,3 +37,4 @@ var book2 = (kidsAge<=10)? "green ages and ham": "time machine";
  console.log(book2);
  book= (kidsAge>10)? "the time machine": "green ages and ham";
  console.log ("Your kid should read "+ book);
+
