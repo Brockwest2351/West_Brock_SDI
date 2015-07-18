@@ -8,7 +8,7 @@ Conditionals Assignment
 
 //alert("testing to see if this work!");
 
-// calculate if a customer can afford a dog on a payment plan for 12 months or 24 months
+// calculate if a customer can afford a dog on a payment plan
 
  //see if the user is allowed to have a puppy or not based on age
  var age;
@@ -24,7 +24,7 @@ Conditionals Assignment
  }
 
  var oldEnough;
- var oldEnough2
+ var oldEnough2;
 
 
 
@@ -80,30 +80,41 @@ if(allowedPuppy.toLowerCase()==="no") {
       else {
       // if not true else statement will run
       console.log(" move on to monthly payment plan.");
-     //
+     // ask monthly budget
       var monthlyBudget = prompt("What is your monthly budget?");
       if (isNaN(monthlyBudget) || monthlyBudget === "") {
        // reprompt the user
-       monthlyBudget = prompt("Please enter a number and dont leave this blank.What is your monthly budget");
+       monthlyBudget = prompt("Please enter a number and dont leave this blank.\nWhat is your monthly budget");
       }
-      var yearlyBudget = monthlyBudget * 12;
-      if (puppyCost < yearlyBudget) {
+      var monthsPayment = prompt("How many months would you like to pay?");
+      if(isNaN(monthsPayment)|| monthsPayment===""){
+        //reprompt the user
+        monthsPayment= prompt ("Please enter a number and dont leave this blank.\n How many months would like to pay? ")
+       }
+      // calculate yearly budget
+      var Budget = monthlyBudget * monthsPayment;
+      if(Budget>puppyCost) {
        console.log("You can buy the puppy.");
-       age = prompt("Please don't leave this blank and enter a number.What is your age?");
+
+       age = prompt("What is your age?");
        if (isNaN(age) || age === "") {
         //reprompt user
+        age = prompt("Please enter a number and dont leave this blank.\nWhat is your age?")
 
        }
        oldEnough = 18;
        oldEnough2 = (age < 18) ? "You are too young to buy the puppy." : "You are old enough to buy the puppy.";
-      }
-       else{
-        console.log("Sorry but you can't afford the puppy.")
-       }
+       console.log(oldEnough2);
+
+       // calculate if they can afford the puppy on a 12 month plan
+      } else if (paidFull.toLowerCase()==="no" && Budget<puppyCost) {
+       console.log("Sorry you can't buy the puppy.");
+       // ask age of the user
 
      }
 
  }
+}
 // test
  // allowedPuppy yes
  // puppyCost 1000
