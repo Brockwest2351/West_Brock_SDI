@@ -12,7 +12,20 @@ beer
 
 // for(initizialation; condition; increment of change){}
 
- for(var i=99; i>0;i--){
+
+ var numBeers =prompt("how many beers on the wall");
+ // validate user prompts
+ while(isNaN(numBeers) || numBeers===""){
+  if(isNaN(numBeers)){
+   numBeers=prompt ("Please only type in numbers.\n how many beers are on your wall?")
+  }else
+  numBeers=prompt("Please do not leave blank.\n How many beers are on your wall.")
+ }
+
+ // cast the variable as a number
+ numBeers=Number(numBeers);
+
+ for(var i=numBeers; i>0;i--){
   //verify that the loop works
   //console.log(i);
   if(i===2) {
