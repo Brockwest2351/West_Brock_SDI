@@ -86,22 +86,27 @@ if(allowedPuppy.toLowerCase()==="no") {
        // reprompt the user
        monthlyBudget = prompt("Please enter a number and dont leave this blank.\nWhat is your monthly budget");
       }
+      // ask for how many months they will need the payment plan
       var monthsPayment = prompt("How many months would you like to pay?");
+      // validate user input
       if(isNaN(monthsPayment)|| monthsPayment===""){
         //reprompt the user
         monthsPayment= prompt ("Please enter a number and dont leave this blank.\n How many months would like to pay? ")
        }
-      // calculate yearly budget
+      // calculate budget
       var Budget = monthlyBudget * monthsPayment;
+      // test if budget is greater than puppy cost
       if(Budget>puppyCost) {
-       console.log("You can buy the puppy.");
-
+       console.log("You can buy the puppy,if you age allows it.");
+       // prompt age of user
        age = prompt("What is your age?");
+       // validate the user input
        if (isNaN(age) || age === "") {
         //reprompt user
         age = prompt("Please enter a number and dont leave this blank.\nWhat is your age?")
 
        }
+       // test if the age of user is old enough
        oldEnough = 18;
        oldEnough2 = (age < 18) ? "You are too young to buy the puppy." : "You are old enough to buy the puppy.";
        console.log(oldEnough2);
