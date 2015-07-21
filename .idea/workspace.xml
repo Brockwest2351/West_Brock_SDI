@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 7/js/day7_zombies.js" afterPath="$PROJECT_DIR$/day 7/js/day7_zombies.js" />
-    </list>
+    <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="" />
     <ignored path="West_Brock_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +31,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day7_zombies.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day7_zombies.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day 7/js/day7_zombies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85804415">
-              <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day7_loopsarray.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day 7/js/day7_loopsarray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18927445">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day7_loopsarray.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day 7/day7_loopsarray.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -126,6 +144,8 @@
         <option value="$PROJECT_DIR$/day 7/js/day7_beer.js" />
         <option value="$PROJECT_DIR$/day 7/day7_zombies.html" />
         <option value="$PROJECT_DIR$/day 7/js/day7_zombies.js" />
+        <option value="$PROJECT_DIR$/day 7/day7_loopsarray.html" />
+        <option value="$PROJECT_DIR$/day 7/js/day7_loopsarray.js" />
       </list>
     </option>
   </component>
@@ -597,20 +617,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 3/js/day3_casting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 3/js/Day3_arrays.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/West_Brock_Expressions_Assignment/expressionsAssignment.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -959,8 +965,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day 7/js/day7_zombies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85804415">
-          <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 7/day7_loopsarray.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 7/js/day7_loopsarray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18927445">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
