@@ -23,7 +23,14 @@ loops array
  console.log(scoobyGang.length);
 
  for (var i=0;i<scoobyGang.length;i++){
-  console.log("You solved the case "+scoobyGang[i]);
+  // call out scooby and shaggy to get a scooby snack
+  if(scoobyGang[i]==="scooby" || scoobyGang[i]==="shaggy"){
+ console.log("Good Job "+scoobyGang[i]+". You get a scooby snack.")
+  } else{
+   console.log("You solved the case "+scoobyGang[i]);
+  }
+
+
  }
 
  // create an array of bills
