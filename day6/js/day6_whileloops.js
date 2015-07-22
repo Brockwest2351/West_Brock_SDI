@@ -30,7 +30,7 @@ while loops
 
  do{
   //This code will always run at least once
-  console.log("The value of I is "+i)
+  console.log("The value of I is "+i);
   //Increment of change
   i++;
 

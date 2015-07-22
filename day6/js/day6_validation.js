@@ -32,12 +32,12 @@ validation prompts with loops
 console.log("After the while loop.");
 
  // ask the user for either red or black
-var counter=0
+var counter=0;
  var color= prompt("Please choose red or black:");
  while(color.toLowerCase()!="red"&& color.toLowerCase()!= "black"){
   // reprompt the user using same variable
   color=prompt ("Please only type in red or black");
-  counter++
+  counter++;
   if(counter>10){
    console.log("you have tried to many times");
    break;
