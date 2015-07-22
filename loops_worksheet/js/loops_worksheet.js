@@ -21,13 +21,13 @@ for (var i=0;i<nextGame;i++){
  } console.log ("your next game is in "+nextGame+ " days.");
 
  var playNext= prompt ("will you play next game?");
- while(playNext.toLowerCase()!=yes||playNext.toLowerCase()!=no){
+ while(playNext.toLowerCase()!="yes"&& playNext.toLowerCase()!="no"){
   playNext=prompt ("Please only enter yes or no.\nWill you play next game?")
  }
 
- if(playNext === " no"){
+ if(playNext === "no"){
   console.log(" Have a great day.")
- } else {
+ } else { console.log("enjoy your game.")
 
 
 
@@ -37,15 +37,19 @@ for (var i=0;i<nextGame;i++){
   while (isNaN(pointsScored) || pointsScored === "") {
    pointsScored = prompt("Please only enter a number and do not leave this blank. How many points did you score in your last game.");
   }
+  var allowedPoints=10;
+  var counter=1
   do {
    console.log("you scored " + pointsScored)
   }
-  while (pointsScored <= 10)
+  while (pointsScored < allowedPoints);
   {
    console.log("You wont start next game.");
    pointsScored++;
+
+   }
   }
- }
+ 
 
 
 
