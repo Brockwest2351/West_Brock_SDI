@@ -20,11 +20,15 @@ arguements and perameters
 
 function calcArea (){
     // create variables
-    var width=10;
-    var height=20;
+    // width=10;
+     //height=20;
     var area=width*height;
     console.log("The area of the rectangle with the width of "+width+" and a height of "+height+" is "+area);
 
 }
  calcArea();
+ //change the variables
+ width=50;
+ height=10;
+
  calcArea();
