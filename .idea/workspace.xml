@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 8/js/day8_argueperam.js" afterPath="$PROJECT_DIR$/day 8/js/day8_argueperam.js" />
-    </list>
+    <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="" />
     <ignored path="West_Brock_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,11 +61,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8_argueperam.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day8_argueperam.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day 8/js/day8_argueperam.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85804415">
-              <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8_returns.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day 8/js/day8_returns.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18927445">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8returns.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day 8/day8returns.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -103,26 +121,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day6_validation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day6/js/day6_validation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day6_validation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day6/day6_validation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -140,8 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 3/Day3_arrays.html" />
-        <option value="$PROJECT_DIR$/Day 3/js/Day3_arrays.js" />
         <option value="$PROJECT_DIR$/Day 3/day3prompts.html" />
         <option value="$PROJECT_DIR$/Day 3/js/day3_prompts.js" />
         <option value="$PROJECT_DIR$/Day 3/js/day3_casting.html" />
@@ -191,6 +187,8 @@
         <option value="$PROJECT_DIR$/day 8/js/day8_scope.js" />
         <option value="$PROJECT_DIR$/day 8/day8_argueperam.html" />
         <option value="$PROJECT_DIR$/day 8/js/day8_argueperam.js" />
+        <option value="$PROJECT_DIR$/day 8/day8returns.html" />
+        <option value="$PROJECT_DIR$/day 8/js/day8_returns.js" />
       </list>
     </option>
   </component>
@@ -411,20 +409,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 3/js/day3_prompts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 3/Day3_arrays.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day2Expressions/homeworkExpressions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5572917">
@@ -794,8 +778,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day 8/js/day8_argueperam.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85804415">
-          <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 8/day8returns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 8/js/day8_returns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18927445">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
