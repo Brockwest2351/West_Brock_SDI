@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 8/js/day8_scope.js" afterPath="$PROJECT_DIR$/day 8/js/day8_scope.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day 8/js/day8_argueperam.js" afterPath="$PROJECT_DIR$/day 8/js/day8_argueperam.js" />
     </list>
     <ignored path="West_Brock_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,8 +66,8 @@
       <file leaf-file-name="day8_argueperam.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day 8/js/day8_argueperam.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18927445">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.68611985">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -794,8 +794,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day 8/js/day8_argueperam.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18927445">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.68611985">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
           <folding />
         </state>
       </provider>
