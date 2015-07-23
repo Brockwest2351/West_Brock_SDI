@@ -27,7 +27,7 @@ for (var i=0;i<nextGame;i++){
 
  if(playNext === "no"){
   console.log(" Have a great day.")
- } else { console.log("enjoy your game.")
+ } else { console.log("enjoy your game.");
 
 
 
@@ -38,7 +38,7 @@ for (var i=0;i<nextGame;i++){
    pointsScored = prompt("Please only enter a number and do not leave this blank. How many points did you score in your last game.");
   }
   var allowedPoints=10;
-  var counter=1
+  var counter=1;
   do {
    console.log("you scored " + pointsScored)
   }
@@ -49,7 +49,7 @@ for (var i=0;i<nextGame;i++){
 
    }
   }
- 
+
 
 
 
