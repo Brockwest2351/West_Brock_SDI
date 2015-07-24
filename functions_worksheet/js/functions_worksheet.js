@@ -26,16 +26,15 @@ var calcCirc = 2*radius*3.14;
  return calcCirc;
  //log the to the console
 }
-
  var circumference=calcCircumference(radius);
-
+// log to console the circumfrence of circle 1
  console.log("The circumference of the circle is with the radius of "+radius+" is "+circumference);
-
+// set variable for 2nd circle
  var results=calcCircumference(calc2);
-
+// calculate the total of circle 1 and circle 2
  var total=circumference+results;
-
- console.log("The total of the circumfrence with the radius "+radius+" and a radius of "+10+" is "+total);
+// log to console the total of circle 1 and circle 2
+ console.log("The total of the circumfrence with the radius "+radius+" and a radius of "+calc2+" is "+total);
 
  // calculate how many bee stings it will take for a victim to die
 
