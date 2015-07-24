@@ -8,7 +8,7 @@ returns
 
 //alert("testing to see if this work!");
 
- // create a function are aof the retangle
+ // create a function are aof the rectangle
 
  function calcArea(w,h){
   var area=w*h;
