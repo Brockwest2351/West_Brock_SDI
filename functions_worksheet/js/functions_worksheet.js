@@ -15,7 +15,7 @@ var radius= parseInt(prompt("Lets calculate the circumference of a circle.\nWhat
  // validate the prompt
  while(isNaN(radius)||radius===""){
   radius=prompt("Please enter a number and do not leave this blank\nWhat is the radius of the circle?");
-
+// set variable for 2nd calculation of 2nd circle radius
   var calc2=10;
 
  }
@@ -52,12 +52,17 @@ var calcCirc = 2*radius*3.14;
  var bees=victimweight*8.66666667;
   return bees;
  }
+
 var numBees= beeStings(victimWeight);
+ // log to console how many bees it will take
  console.log("The total number of bees it will take to kill a victim that weighs "+victimWeight+"lb is "+numBees);
 
+ // set a variable for number of bees it will take for victim 2
  var results=beeStings(victim2);
 
+ // calculate a total for victim 2 and victim 1
  var total2=numBees+results;
+ // log to console the total
  console.log("The total number of bees it will take to kill a victim that weighs "+victimWeight+"lb and a victim that weighs "+100+"lb is "+total2)
 
 
