@@ -62,6 +62,6 @@ var numBees= beeStings(victimWeight);
  // calculate a total for victim 2 and victim 1
  var total2=numBees+results;
  // log to console the total
- console.log("The total number of bees it will take to kill a victim that weighs "+victimWeight+"lb and a victim that weighs "+100+"lb is "+total2)
+ console.log("The total number of bees it will take to kill a victim that weighs "+victimWeight+"lb and a victim that weighs "+victim2+"lb is "+total2)
 
 
