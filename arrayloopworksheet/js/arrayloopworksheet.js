@@ -33,4 +33,4 @@ for (var i=0;i<pointsScored.length;i++){
  }
 }
 
- console.log("The total number of points you scored is that are greater than 10 "+total);
+ console.log("The total number of points you scored is that are greater than 10 equals "+total);
