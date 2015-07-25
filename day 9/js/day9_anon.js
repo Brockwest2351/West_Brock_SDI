@@ -27,3 +27,4 @@ var triArea = function(b,h){
  // function call must be after the definition
  var results=triArea(10,20);
  console.log(results);
+
