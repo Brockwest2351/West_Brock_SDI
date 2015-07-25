@@ -45,12 +45,24 @@ Random
  console.log("The min value is "+min);
  console.log("The max value is "+max);
 
+
+ //what the sum of these random numbers is
  //15 random numbes to prit the console.log
+
+ var total=0;
+ // create a blank array to hold the values of the random number
+
+ var randomArray=[];
  for(var i=0;i<15;i++){
-  var tempNum=randomizer(min,max);
+  var tempNum=randomizer(10,20);
+  randomArray[i]=tempNum;
   console.log(tempNum);
+  total+=tempNum;
+
  }
 
+ console.log("The total of the 15 random numbers is "+total);
+console.log(randomArray);
 
 
 
@@ -68,3 +80,5 @@ console.log("your random number is "+results1);
   return randomNum;
 
  }
+
+
