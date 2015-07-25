@@ -32,3 +32,4 @@ function calcPeri(w,h){
  //function call for our procedure
  // does not catch anything!
  calcPeri(10,20);
+
