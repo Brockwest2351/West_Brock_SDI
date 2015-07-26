@@ -30,21 +30,10 @@ multiple
 
  // create a function to calculate the area of a rectangle
 
- function calcArea (h,w){
-  var area=h*w;
+ function calcArea (h,w) {
+  var area = h * w;
   return area;
-
  }
-//create a function to calculate the area of a triangle
- var triArea= function (b,h){
-  var area=.5* b*h;
-  return area;
- };
-
- //function call triangle area
- var triAreaTotal=triArea(base,height);
-console.log(triAreaTotal);
-
  // create a procedure that will console.log the rectangle perimeter and area
 
  function printOut (p,a){
@@ -54,6 +43,31 @@ console.log(triAreaTotal);
 
  //function call for printouts
 
-printOut(resultsPeri,resultsArea);
+ printOut(resultsPeri,resultsArea);
 
- 
+ //create a function to calculate the area of a triangle
+
+
+
+ var userPrompt=prompt("would you like to calculate the area of a triangle?\nPlease answer yes or no");
+ while(userPrompt.toLowerCase()!="yes" && userPrompt.toLowerCase()!="no"){
+  userPrompt=prompt("Please only answer yes or no.\nWould you like to calculate the area of a triangle? ");
+ }
+ // conditional to see if we should run the anon function
+
+ if(userPrompt.toLowerCase()==="yes") {
+  var triArea = function (b, h) {
+   var area = .5 * b * h;
+   return area;
+  };
+    //function call triangle area
+   var triAreaTotal=triArea(base,height);
+   console.log(triAreaTotal);
+
+ }
+
+
+
+
+
+
