@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/West_Brock_Functions_Assignment/js/functions_assignment.js" afterPath="$PROJECT_DIR$/West_Brock_Functions_Assignment/js/functions_assignment.js" />
-    </list>
+    <list default="true" id="50db94aa-3095-45a6-8c0c-646495f1b73a" name="Default" comment="" />
     <ignored path="West_Brock_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +31,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions_assignment.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functions_assignment.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/West_Brock_Functions_Assignment/js/functions_assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85804415">
+            <state vertical-scroll-proportion="0.0">
               <caret line="66" column="57" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day10_review.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day 10/js/day10_review.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23659305">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day10_review.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day 10/day10_review.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -80,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day 4/js/day4logical.js" />
-        <option value="$PROJECT_DIR$/day 4/day4ternary.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/conditionalsworksheet.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/conditionalsworksheet.html" />
         <option value="$PROJECT_DIR$/day5/day5_steaks.html" />
@@ -131,6 +147,8 @@
         <option value="$PROJECT_DIR$/West_Brock_Functions_Assignment/functions_assignment.html" />
         <option value="$PROJECT_DIR$/day 9/js/day9_multiple.js" />
         <option value="$PROJECT_DIR$/West_Brock_Functions_Assignment/js/functions_assignment.js" />
+        <option value="$PROJECT_DIR$/day 10/day10_review.html" />
+        <option value="$PROJECT_DIR$/day 10/js/day10_review.js" />
       </list>
     </option>
   </component>
@@ -215,6 +233,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="West_Brock_Functions_Assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="West_Brock_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="West_Brock_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="West_Brock_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="West_Brock_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 10" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -364,20 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day 4/day4conditional.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24590164">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/conditionalsworksheet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day 4/day4ternary.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12295082">
@@ -761,8 +797,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/West_Brock_Functions_Assignment/js/functions_assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85804415">
+        <state vertical-scroll-proportion="0.0">
           <caret line="66" column="57" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 10/day10_review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day 10/js/day10_review.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23659305">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
